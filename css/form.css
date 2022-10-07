@@ -62,6 +62,10 @@ Zastosowałem własne selektory, ponieważ zmodyfikowałem strukturę w html
   margin: 0.2rem 0;
 }
 
+.grid-item input {
+  box-shadow: inset 1px 1px 8px 0px rgba(141, 144, 167, 1);
+}
+
 #task-frontend button {
   font-family: inherit;
   font-size: 1rem;
