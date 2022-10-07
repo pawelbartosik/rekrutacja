@@ -1,4 +1,5 @@
-#AKAI - Zadanie Frontend
+# AKAI - Zadanie Frontend
+
 ![Preview page](/img/preview.png?raw=true)
 
 Programowaniem interesuję się już od dłuższego czasu.
